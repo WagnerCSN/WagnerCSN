@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Wagner Costa 👋
 
 <div style="width: 20em;text-align: justify;"><br>
-     &nbsp;&nbsp;&nbsp;Sou apaixonado por Tecnologia, desenvolvimento e sobretudo por marcas que trabalhem para oferecer um mundo de possibilidades. Estou estudando Desenvolvimento Web na RocketSeat, na qual o incentivo à evolução com as tecnologias é constante. As possibilidades são infinitas por acreditar no mar de soluções que poderei alcançar com a aceleração tecnológica.
+     &nbsp;&nbsp;&nbsp;Sou apaixonado por Tecnologia, desenvolvimento e sobretudo por marcas que trabalhem para oferecer um mundo de possibilidades. Estou estudando Desenvolvimento Web na RocketSeat, na qual o incentivo à evolução com as tecnologias assim como a conexão entre os professores e os alunos são constantes. As possibilidades são infinitas por acreditar no mar de soluções que poderei alcançar com a aceleração tecnológica.
 </div>
 
 <div><br><br>
