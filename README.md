@@ -1,9 +1,13 @@
-### OLÁ! Eu sou o Wagner Costa 👋
+### Olá! Eu sou o Wagner Costa 👋
 
+<div style="width: 20em;text-align: justify;"><br>
+     &nbsp;&nbsp;&nbsp;Sou apaixonado por Tecnologia, desenvolvimento e sobretudo por marcas que trabalhem para oferecer um mundo de possibilidades. Estou estudando Desenvolvimento Web na RocketSeat, na qual o incentivo à evolução com as tecnologias é constante. As possibilidades são infinitas por acreditar no mar de soluções que poderei alcançar com a aceleração tecnológica.
+</div>
 
 <div><br><br>
-<img height="300em" width="500em" src="https://github-readme-stats.vercel.app/api?username=WagnerCSN&show_icons=true&theme=radical"/>
-<img height="300em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerCSN&hide_progress=false"/>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=WagnerCSN&show_icons=true&theme=dracula"/>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerCSN&hide_progress=false&theme=dracula"/>
+<br><br>  
 </div>
 
 🚀 Skills
@@ -16,7 +20,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
    <br> <br>
  </div>
- 
+ <div>---------------------------------------------------------------------------------------------------------------------</div>
  👨 Social
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-costa-546631211/)
