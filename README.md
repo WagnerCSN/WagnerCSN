@@ -1,7 +1,7 @@
-### Olá! Eu sou o Wagner Costa 👋
+### Hi there! I'm Wagner Costa 👋
 
 <div style="width: 20em;text-align: justify;"><br>
-     &nbsp;&nbsp;&nbsp;Sou apaixonado por Tecnologia, desenvolvimento e sobretudo por marcas que trabalhem para oferecer um mundo de possibilidades. Estou estudando Desenvolvimento Web na RocketSeat, na qual o incentivo à evolução com as tecnologias assim como a conexão entre os professores e os alunos são constantes. As possibilidades são infinitas por acreditar no mar de soluções que poderei alcançar com a aceleração tecnológica.
+     &nbsp;&nbsp;&nbsp;I am passionate about technology, development and, above all, brands that work to offer a world of possibilities. I'm studying Web Development at RocketSeat.
 </div>
 
 <div><br><br>
@@ -21,7 +21,7 @@
    <br> <br>
  </div>
  <div>---------------------------------------------------------------------------------------------------------------------</div>
- 👨 Social
+ 👨 Contacts
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-costa-546631211/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagcostves@gmail.com)
